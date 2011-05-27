@@ -3,3 +3,5 @@ node_modules/*
 *.log
 *.sock
 themes/calipso/public/css/calipso.css
+
+config/production.js

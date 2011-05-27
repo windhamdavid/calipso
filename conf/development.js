@@ -8,7 +8,7 @@ module.exports = function(app,express) {
   app.set('db-uri', 'mongodb://localhost/calipso-dev');
 
   // Change to suit - this key works for calip.so
-  app.set('google-analytics-key', 'UA-17607570-4');
+  app.set('google-analytics-key', 'UA-XXXXXXXX-X');
 
   // Disqus
   app.set('disqus-shortname', 'calipsojs');

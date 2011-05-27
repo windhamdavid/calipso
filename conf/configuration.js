@@ -211,7 +211,7 @@ function loadConfig(app, defaultConfig, next) {
  *Random string for cryptoKey
  */
 function createRandomString() {
-    var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
+    var chars = "7hujhygt2563hbjdu873hjskmcjdd998733hhnnaapapali8";
     var string_length = 8;
     var randomString = '';
     for (var i=0; i<string_length; i++) {
